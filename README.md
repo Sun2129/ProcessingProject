@@ -1,4 +1,5 @@
 # ProcessingProject
+
 A processing project in which a .csv data file, which details the weather of a specific city over multiple years, is read from and manipulated.
 
 The program is able to display the minimum temperatures, maximum temperatures, or both in a GUI window. Certain months can be selected to view the 
